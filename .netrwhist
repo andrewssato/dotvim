@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/Users/andrewssato/workspace/classes/node/app1/routes'
+let g:netrw_dirhist_2='/Users/andrewssato/workspace/classes/node/app1/public/javascripts'
+let g:netrw_dirhist_3='/Users/andrewssato/workspace/classes/node/app1/public'
+let g:netrw_dirhist_4='/Users/andrewssato/workspace/classes/node/app1'
+let g:netrw_dirhist_5='/Users/andrewssato/workspace/classes/node/app1/routes'
+let g:netrw_dirhist_6='/Users/andrewssato/workspace/classes/node/app1'
+let g:netrw_dirhist_7='/Users/andrewssato/workspace/classes/node/app1/views'
